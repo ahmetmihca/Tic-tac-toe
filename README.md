@@ -6,7 +6,7 @@ I have simulated a simple Tic-Tac-Toe game which will involve accessing shared r
 
 # Sample Outputs #
 
-   # Sample Run 1 #. 
+   # Sample Run 1 # 
 
     Board Size: 3x3
     Player x played on: (0,1)
